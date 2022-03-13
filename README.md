@@ -1,4 +1,11 @@
-### Hi there 👋
+Hi there, I'm Mohamadreza Hadi 👋
+<ul>
+  <li><input disabled="" type="checkbox">I’m currently learning asp.net core in acion writed by https://github.com/andrewlock</li>
+  <li><input checked="" disabled="" type="checkbox">I’m looking to collaborate on: .NET projects</li>
+</ul>
+<a href="https://coffeebede.ir/buycoffee/mhmdreza_hadi"><img width="200px" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+
+
 
 <!--
 **Mhmdrezahadi/Mhmdrezahadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
